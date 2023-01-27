@@ -6,7 +6,7 @@ public class Main {
         int[] input = {22, 33, 44, 55, 55, 55, 2, 3, 5, 5};
         System.out.println(findMostFrequent(input));
     }
-    
+
     //    pradinis masyvas, su skaičiais, turi surasti, kuris iš tų skaičių dažniausiai kartojasi
 //    ir grąžinti to skaičiaus indeksą pradiniame masyve
 //    pvz int[] input = {1, 3, 4, 5, 3, 6, 3}, tai turi grąžinti 6
